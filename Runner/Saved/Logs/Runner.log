@@ -1061,3 +1061,51 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.09.27-06.46.19:756][533]LogEditorActor: Deleted Actor: StaticMeshActor
 [2024.09.27-06.46.19:785][533]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
 [2024.09.27-06.46.19:788][533]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2024.09.27-06.47.03:054][546]BlueprintLog: New page: Compile WB_Health_Main
+[2024.09.27-06.47.03:082][546]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2024.09.27-06.47.04:046][638]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2024.09.27-06.47.04:102][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.09.27-06.47.04:120][638]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/Runner/Runner/Saved/ThirdPersonExampleMap8DA04181483AEED5C3C2F093DB4B504E.tmp' to 'C:/Users/letsg/Documents/GitHub/Runner/Runner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2024.09.27-06.47.04:126][638]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.059
+[2024.09.27-06.47.04:127][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Health_Main" FILE="C:/Users/letsg/Documents/GitHub/Runner/Runner/Content/UI/WB_Health_Main.uasset" SILENT=true
+[2024.09.27-06.47.04:131][638]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/Runner/Runner/Saved/WB_Health_MainF259849E406C78C791938E86DF599F48.tmp' to 'C:/Users/letsg/Documents/GitHub/Runner/Runner/Content/UI/WB_Health_Main.uasset'
+[2024.09.27-06.47.04:147][638]AssetCheck: New page: Asset Save: multiple assets
+[2024.09.27-06.47.04:147][638]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WB_Health_Main.WB_Health_Main
+[2024.09.27-06.47.04:147][638]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2024.09.27-06.47.25:636][365]BlueprintLog: New page: Compile WB_Health_Main
+[2024.09.27-06.47.25:682][365]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2024.09.27-06.47.26:710][460]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2024.09.27-06.47.26:735][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Health_Main" FILE="C:/Users/letsg/Documents/GitHub/Runner/Runner/Content/UI/WB_Health_Main.uasset" SILENT=true
+[2024.09.27-06.47.26:741][460]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/Runner/Runner/Saved/WB_Health_Main31B9CB30447BDE35C8D348BCAFA62E4A.tmp' to 'C:/Users/letsg/Documents/GitHub/Runner/Runner/Content/UI/WB_Health_Main.uasset'
+[2024.09.27-06.47.26:758][460]AssetCheck: New page: Asset Save: WB_Health_Main
+[2024.09.27-06.47.26:758][460]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WB_Health_Main.WB_Health_Main
+[2024.09.27-06.47.52:402][480]BlueprintLog: New page: Compile WB_Health_Main
+[2024.09.27-06.47.52:449][480]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2024.09.27-06.47.53:268][563]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2024.09.27-06.47.53:304][563]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Health_Main" FILE="C:/Users/letsg/Documents/GitHub/Runner/Runner/Content/UI/WB_Health_Main.uasset" SILENT=true
+[2024.09.27-06.47.53:309][563]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/Runner/Runner/Saved/WB_Health_MainD2840A6D403375A18AD218B02806DF26.tmp' to 'C:/Users/letsg/Documents/GitHub/Runner/Runner/Content/UI/WB_Health_Main.uasset'
+[2024.09.27-06.47.53:326][563]AssetCheck: New page: Asset Save: WB_Health_Main
+[2024.09.27-06.47.53:326][563]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WB_Health_Main.WB_Health_Main
+[2024.09.27-06.48.03:582][126]LogSlate: Took 0.018437 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.09.27-06.49.46:411][604]LogSlate: Took 0.020098 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.09.27-06.53.27:186][390]BlueprintLog: New page: Compile WB_Health_Main
+[2024.09.27-06.53.27:234][390]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2024.09.27-06.53.28:299][504]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2024.09.27-06.53.28:318][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Health_Main" FILE="C:/Users/letsg/Documents/GitHub/Runner/Runner/Content/UI/WB_Health_Main.uasset" SILENT=true
+[2024.09.27-06.53.28:324][504]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/Runner/Runner/Saved/WB_Health_Main593202544E1D737FA0721A91C9C366AA.tmp' to 'C:/Users/letsg/Documents/GitHub/Runner/Runner/Content/UI/WB_Health_Main.uasset'
+[2024.09.27-06.53.28:345][504]AssetCheck: New page: Asset Save: WB_Health_Main
+[2024.09.27-06.53.28:345][504]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WB_Health_Main.WB_Health_Main
+[2024.09.27-06.53.36:096][355]BlueprintLog: New page: Compile WB_Health_Main
+[2024.09.27-06.53.36:142][355]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2024.09.27-06.53.37:347][478]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2024.09.27-06.53.37:368][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Health_Main" FILE="C:/Users/letsg/Documents/GitHub/Runner/Runner/Content/UI/WB_Health_Main.uasset" SILENT=true
+[2024.09.27-06.53.37:375][478]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/Runner/Runner/Saved/WB_Health_Main01A62F7C48E0CD0BE6173CBCAA57114F.tmp' to 'C:/Users/letsg/Documents/GitHub/Runner/Runner/Content/UI/WB_Health_Main.uasset'
+[2024.09.27-06.53.37:395][478]AssetCheck: New page: Asset Save: WB_Health_Main
+[2024.09.27-06.53.37:395][478]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WB_Health_Main.WB_Health_Main
+[2024.09.27-06.56.33:111][609]BlueprintLog: New page: Compile WB_Health_Main
+[2024.09.27-06.56.33:158][609]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2024.09.27-06.56.34:478][750]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2024.09.27-06.56.34:503][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Health_Main" FILE="C:/Users/letsg/Documents/GitHub/Runner/Runner/Content/UI/WB_Health_Main.uasset" SILENT=true
+[2024.09.27-06.56.34:513][750]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/Runner/Runner/Saved/WB_Health_MainD4B9F5A84E6B1B2BDAAB1AA1A5A756CA.tmp' to 'C:/Users/letsg/Documents/GitHub/Runner/Runner/Content/UI/WB_Health_Main.uasset'
+[2024.09.27-06.56.34:534][750]AssetCheck: New page: Asset Save: WB_Health_Main
+[2024.09.27-06.56.34:534][750]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WB_Health_Main.WB_Health_Main
