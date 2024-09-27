@@ -1052,3 +1052,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.09.27-06.44.35:489][878]LogSavePackage: Moving 'C:/Users/letsg/Documents/GitHub/Runner/Runner/Saved/WB_Health_MainCF10CB56468F9990C156B88FF1B06B44.tmp' to 'C:/Users/letsg/Documents/GitHub/Runner/Runner/Content/UI/WB_Health_Main.uasset'
 [2024.09.27-06.44.35:507][878]AssetCheck: New page: Asset Save: WB_Health_Main
 [2024.09.27-06.44.35:507][878]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WB_Health_Main.WB_Health_Main
+[2024.09.27-06.46.11:804][  4]LogActorFactory: Actor Factory created Cube
+[2024.09.27-06.46.12:601][ 72]LogActorFactory: Actor Factory created Cube
+[2024.09.27-06.46.18:542][401]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2024.09.27-06.46.19:029][454]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2024.09.27-06.46.19:727][533]Cmd: DELETE
+[2024.09.27-06.46.19:727][533]Cmd: ACTOR DELETE
+[2024.09.27-06.46.19:756][533]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.09.27-06.46.19:785][533]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2024.09.27-06.46.19:788][533]LogEditorActor: Deleted 1 Actors (0.043 secs)
